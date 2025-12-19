@@ -1,4 +1,4 @@
-# About Me 👋
+# About Me
 
 - 🛠️ Passionate about applying artificial intelligence to real-world problems  
 - 🧠 Research interests include Deep Reinforcement Learning and Edge Computing  
