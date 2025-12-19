@@ -1,7 +1,9 @@
-# About me 👋
+# About Me 👋
 
-- 🛠️ Passionate about applying AI to real-world challenges
-- 🧠 Deep Reinforcement Learning, Edge Computing
+- 🛠️ Passionate about applying artificial intelligence to real-world problems  
+- 🧠 Research interests include Deep Reinforcement Learning and Edge Computing  
+- 🎶 Play the traditional Persian instrument [Setar](https://www.youtube.com/watch?v=cFSQGoL5Ko8)
+
 <!--
 **ahmad-karami/ahmad-karami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
