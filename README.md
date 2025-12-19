@@ -1,5 +1,7 @@
-## Hi there 👋
+# About me 👋
 
+- 🛠️ Passionate about applying AI to real-world challenges
+- 🧠 Deep Reinforcement Learning, Edge Computing
 <!--
 **ahmad-karami/ahmad-karami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
