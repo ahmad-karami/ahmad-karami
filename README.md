@@ -2,7 +2,7 @@
 
 - 🛠️ Passionate about applying artificial intelligence to real-world problems  
 - 🧠 Research interests include Deep Reinforcement Learning and Edge Computing  
-- 🎶 Play the traditional Persian instrument [Setar](https://www.youtube.com/watch?v=cFSQGoL5Ko8)
+- 🎶 Play the traditional Persian instrument [Setar](https://www.youtube.com/watch?v=cFSQGoL5Ko8) and [Tar](https://www.youtube.com/watch?v=NG032_CUjvY&list=RDNG032_CUjvY&index=1)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/night.png">
