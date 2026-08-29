@@ -1,7 +1,7 @@
 # About Me
 
 - 🛠️ Passionate about applying artificial intelligence to real-world problems  
-- 🧠 Research interests include Deep Reinforcement Learning and Edge Computing  
+- 🧠 Research interests include Deep Reinforcement Learning, Edge Computing and IoT Systems
 - 🎶 Play the traditional Persian instrument [Setar](https://www.youtube.com/watch?v=cFSQGoL5Ko8) and [Tar](https://www.youtube.com/watch?v=NG032_CUjvY&list=RDNG032_CUjvY&index=1)
 
 <picture>
